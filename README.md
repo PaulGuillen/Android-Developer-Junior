@@ -2,8 +2,6 @@
 
 _Algunos temas que podrian preguntarte si deseas postular a un puesto de Desarollador Android Junior._
 
-## Comenzando 🚀
-
 ### Lista Temas 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
