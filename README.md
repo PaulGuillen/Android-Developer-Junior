@@ -6,6 +6,6 @@ _Algunos temas que podrian preguntarte si deseas postular a un puesto de Desarol
 
 _Mecionaré los temas que pueden ser propios para una entrevista real._
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [POO](https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/) - Programación Orientada a Objetos
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
