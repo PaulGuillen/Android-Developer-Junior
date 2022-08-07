@@ -7,5 +7,5 @@ _Algunos temas que podrian preguntarte si deseas postular a un puesto de Desarol
 _Mecionaré los temas que pueden ser propios para una entrevista real._
 
 * [POO](https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/) - Programación Orientada a Objetos.
-* [Java Version Android](https://developer.android.com/studio/write/java8-support?hl=es-419) - Versión de Java en Android 
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Java Version 8](https://code.tutsplus.com/es/tutorials/java-8-for-android-cleaner-code-with-lambda-expressions--cms-29661) - Java 8 
+* [Java Lambda](https://rometools.github.io/rome/) - Usado para generar RSS
