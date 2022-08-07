@@ -4,7 +4,7 @@ _Algunos temas que podrian preguntarte si deseas postular a un puesto de Desarol
 
 ### Lista Temas 📋
 
-_Mecionaré los temas que pueden ser propios para una entrevista real._
+_Mecionaré los temas que pueden ser mencionados para una entrevista real._
 
 * [POO](https://profile.es/blog/que-es-la-programacion-orientada-a-objetos/) - Programación Orientada a Objetos.
 * [Android Java Version](https://code.tutsplus.com/es/tutorials/java-8-for-android-cleaner-code-with-lambda-expressions--cms-29661) - Android Java 8
