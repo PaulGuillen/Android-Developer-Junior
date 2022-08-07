@@ -4,7 +4,7 @@ _Algunos temas que podrian preguntarte si deseas postular a un puesto de Desarol
 
 ### Lista Temas 📋
 
-_Mecionare los temas que pueden ser propios para una entrevista real._
+_Mecionaré los temas que pueden ser propios para una entrevista real._
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
