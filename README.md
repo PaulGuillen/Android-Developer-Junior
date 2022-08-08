@@ -13,7 +13,7 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 * [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
 * [Librería Hilos](https://code.tutsplus.com/es/tutorials/rxjava-for-android-apps-introducing-rxbinding-and-rxlifecycle--cms-28565) - Que librería maneja los hilos en Android Studio?
 * [Corountines](https://developer.android.com/topic/libraries/architecture/coroutines?hl=es-419) - Que es ? - Cuales son sus componentes?
-* [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
-* [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
+* [Jetpack Compose](https://developer.android.com/jetpack/compose?hl=es-419) - Que es ? - Que componentes posee?
+* [Firebase](https://www.iebschool.com/blog/firebase-que-es-para-que-sirve-la-plataforma-desarroladores-google-seo-sem/) - Que es ? - Todo acerca de firebase
 * [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
 * [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
