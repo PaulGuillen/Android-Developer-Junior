@@ -12,7 +12,7 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 * [Consumo de una API](https://coderslink.com/talento/blog/como-consumir-una-api-desde-una-aplicacion-android/) - GET - PUT - PATCH - DELETE - POST - LINK .....
 * [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
 * [Librería Hilos](https://code.tutsplus.com/es/tutorials/rxjava-for-android-apps-introducing-rxbinding-and-rxlifecycle--cms-28565) - Que librería maneja los hilos en Android Studio?
-* [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
+* [Corountines](https://developer.android.com/topic/libraries/architecture/coroutines?hl=es-419) - Que es ? - Cuales son sus componentes?
 * [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
 * [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
 * [Room Database](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
