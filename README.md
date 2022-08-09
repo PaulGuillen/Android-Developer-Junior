@@ -25,7 +25,7 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 
 **Programación orientada a objetos**
 
-_Principios_
+_Principios de la programacion orientada a objetcos_
 
 * La encapsulación
 * La abstracción
