@@ -23,7 +23,7 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 
 ## Profundizando 📦
 
-**-Programación orientada a objetos**
+**- Programación orientada a objetos**
 
 Que es? Es un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él.
 
@@ -37,12 +37,12 @@ _Principios de la programación orientada a objetos_
 ### Beneficios de la programacion orientada a objetos
 
 ```
-Reutilización del código.
-Convierte cosas complejas en estructuras simples reproducibles.
-Evita la duplicación de código.
-Permite trabajar en equipo gracias al encapsulamiento ya que minimiza la posibilidad de duplicar funciones cuando varias personas trabajan sobre un mismo objeto al mismo tiempo.
-Al estar la clase bien estructurada permite la corrección de errores en varios lugares del código.
-Protege la información a través de la encapsulación, ya que solo se puede acceder a los datos del objeto a través de propiedades y métodos privados.
-La abstracción nos permite construir sistemas más complejos y de una forma más sencilla y organizada.
+* Reutilización del código.
+* Convierte cosas complejas en estructuras simples reproducibles.
+* Evita la duplicación de código.
+* Permite trabajar en equipo gracias al encapsulamiento ya que minimiza la posibilidad de duplicar funciones cuando varias personas trabajan sobre un mismo objeto al   mismo tiempo.
+* Al estar la clase bien estructurada permite la corrección de errores en varios lugares del código.
+* Protege la información a través de la encapsulación, ya que solo se puede acceder a los datos del objeto a través de propiedades y métodos privados.
+* La abstracción nos permite construir sistemas más complejos y de una forma más sencilla y organizada.
 ```
 
