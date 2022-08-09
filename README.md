@@ -19,3 +19,4 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 * [Gitflow](https://developer.android.com/training/data-storage/room?hl=es-419) - Que es gitflow ? - Como se utiliza? - Cuales son sus ramas?
 * [Play Store](https://play.google.com/store/games?hl=es) - Pruebas en PlayStore ? - A/B Testing - Prueba cerrada, Prueba abierta
 * [JUnit](https://developer.android.com/training/testing/local-tests) - Que es JUnit? - Ejemplos
+* [Mockito](https://funcionaenmimaquina.com/aprende-a-crear-pruebas-unitarias-con-junit-y-mockito-en-15-minutos/) - Que es Mockito? - Ejemplos
