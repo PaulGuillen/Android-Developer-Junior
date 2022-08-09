@@ -25,4 +25,9 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 
 **Programación orientada a objetos**
 
-
+```
+* La encapsulación
+* La abstracción
+* La herencia
+* El polimorfismo
+```
