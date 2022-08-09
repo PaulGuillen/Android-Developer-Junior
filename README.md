@@ -23,16 +23,18 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 
 ## Profundizando 📦
 
-**Programación orientada a objetos**
+**-Programación orientada a objetos**
 
-_Principios de la programacion orientada a objetcos_
+Que es? Es un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él.
+
+_Principios de la programación orientada a objetos_
 
 * La encapsulación
 * La abstracción
 * La herencia
 * El polimorfismo
 
-### Beneficios de POO
+### Beneficios de la programacion orientada a objetos
 
 ```
 Reutilización del código.
