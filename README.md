@@ -25,9 +25,22 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 
 **Programación orientada a objetos**
 
-```
+_Principios_
+
 * La encapsulación
 * La abstracción
 * La herencia
 * El polimorfismo
+
+### Beneficios de POO
+
 ```
+Reutilización del código.
+Convierte cosas complejas en estructuras simples reproducibles.
+Evita la duplicación de código.
+Permite trabajar en equipo gracias al encapsulamiento ya que minimiza la posibilidad de duplicar funciones cuando varias personas trabajan sobre un mismo objeto al mismo tiempo.
+Al estar la clase bien estructurada permite la corrección de errores en varios lugares del código.
+Protege la información a través de la encapsulación, ya que solo se puede acceder a los datos del objeto a través de propiedades y métodos privados.
+La abstracción nos permite construir sistemas más complejos y de una forma más sencilla y organizada.
+```
+
