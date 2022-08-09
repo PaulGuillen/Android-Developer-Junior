@@ -16,4 +16,4 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 * [Jetpack Compose](https://developer.android.com/jetpack/compose?hl=es-419) - Que es ? - Que componentes posee?
 * [Firebase](https://www.iebschool.com/blog/firebase-que-es-para-que-sirve-la-plataforma-desarroladores-google-seo-sem/) - Que es ? - Todo las herramientas de pruebas y compilacion
 * [Patrones Diseño](https://developer.android.com/training/data-storage/room?hl=es-419) - Que patrones has utilizado? - explica
-* [Gitflow](https://developer.android.com/training/data-storage/room?hl=es-419) - Uso de la base de datos local de Android Studio
+* [Gitflow](https://developer.android.com/training/data-storage/room?hl=es-419) - Que es gitflow ? - Como se utiliza?
