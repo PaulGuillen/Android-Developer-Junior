@@ -25,7 +25,7 @@ _Mecionaré los temas que pueden ser mencionados para una entrevista real._
 
 **- Programación orientada a objetos**
 
-Que es? Es un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él.
+Es un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él.
 
 _Principios de la programación orientada a objetos_
 
@@ -46,3 +46,4 @@ _Principios de la programación orientada a objetos_
 * La abstracción nos permite construir sistemas más complejos y de una forma más sencilla y organizada.
 ```
 
+---
