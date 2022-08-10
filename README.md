@@ -30,7 +30,7 @@ Es un modelo o un estilo de programación que nos da unas guías sobre cómo tra
 _Principios de la programación orientada a objetos_
 
 * La encapsulación.
-* La abstracción
+* La abstracción.
 * La herencia
 * El polimorfismo
 
