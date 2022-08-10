@@ -53,3 +53,14 @@ _Principios de la programación orientada a objetos_
 Al introducir una lista de funciones que prometían hacer que la codificación en Java fuera más fácil y concisa que nunca.
 
 _Funciones de java 8._
+
+```
+* Expresiones lambda
+* Referencias a métodos
+* Métodos predeterminados
+* Métodos de interfaz estática
+* Anotaciones de tipo
+* Anotaciones repetitivas
+* Interfaces funcionales
+* La API Stream
+```
