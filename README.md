@@ -32,7 +32,7 @@ _Principios de la programación orientada a objetos_
 * La encapsulación.
 * La abstracción.
 * La herencia.
-* El polimorfismo
+* El polimorfismo.
 
 ### Beneficios de la programacion orientada a objetos
 
