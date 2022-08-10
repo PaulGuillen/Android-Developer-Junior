@@ -64,3 +64,19 @@ _Funciones de java 8._
 * Interfaces funcionales
 * La API Stream
 ```
+
+---
+
+**- Android Studio Componentes**
+
+_Componenetes:_
+
+```
+* Activity
+* Services
+* Content Provider
+* Intent
+* Widget
+* Processes and Threads
+```
+
