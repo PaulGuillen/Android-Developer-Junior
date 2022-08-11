@@ -87,10 +87,14 @@ Conjunto de subrutinas, funciones y procedimientos que ofrece cierta biblioteca 
 
 _Politicas de lanzamiento de una API._
 
-```
 * Privado
 * Publico
 * De Partners
-```
 
+
+_Innovaciones con API._
+
+* Crear nuevos canales de ingresos o ampliar los existentes.
+* Expandir el alcance de su marca.
+* Facilitar la innovación abierta o lograr mayor eficiencia, gracias al desarrollo y la colaboración externos.
 
