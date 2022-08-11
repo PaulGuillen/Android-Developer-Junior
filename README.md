@@ -85,7 +85,7 @@ _Componenetes:_
 
 Conjunto de subrutinas, funciones y procedimientos que ofrece cierta biblioteca para ser utilizada por otro software como una capa de abstracción.
 
-_Politicas._
+_Politicas de lanzamiento de una API._
 
 ```
 * Activity
