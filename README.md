@@ -71,14 +71,13 @@ _Funciones de java 8._
 
 _Componenetes:_
 
-```
 * Activity
 * Services
 * Content Provider
 * Intent
 * Widget
 * Processes and Threads
-```
+
 ---
 
 **- Consumo de APIs**
