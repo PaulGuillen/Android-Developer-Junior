@@ -80,3 +80,18 @@ _Componenetes:_
 * Processes and Threads
 ```
 ---
+
+**- Consumo de APIs**
+
+Conjunto de subrutinas, funciones y procedimientos que ofrece cierta biblioteca para ser utilizada por otro software como una capa de abstracción.
+
+_Politicas._
+
+```
+* Activity
+* Services
+* Content Provider
+* Intent
+* Widget
+* Processes and Threads
+```
