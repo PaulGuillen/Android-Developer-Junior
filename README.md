@@ -88,10 +88,7 @@ Conjunto de subrutinas, funciones y procedimientos que ofrece cierta biblioteca 
 _Politicas de lanzamiento de una API._
 
 ```
-* Activity
-* Services
-* Content Provider
-* Intent
-* Widget
-* Processes and Threads
+* Privado
+* Publico
+* De Partners
 ```
