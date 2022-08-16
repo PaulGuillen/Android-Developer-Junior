@@ -128,5 +128,5 @@ Código asíncrono.
 * Usar dependencias KTX.
 * Ciclos de vidas optimizados (ViewModelScope - LifecycleScope)
 * Ciclos de vida reiniciables.
-* Suspencion de flujos.
+* Suspención de flujos.
 ```
