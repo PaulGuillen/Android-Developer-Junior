@@ -123,3 +123,10 @@ Uso de hilos como RXJava, RxBinding y RxLifeCycle; RxJava es una de las librerí
 **- Courontines**
 
 Código asincrono
+
+```
+* Usar dependencias KTX.
+* Ciclos de vidas optimizados (ViewModelScope - LifecycleScope)
+* Ciclos de vida reiniciables.
+* Suspencion de flujos.
+```
