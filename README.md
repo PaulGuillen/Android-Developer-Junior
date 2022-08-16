@@ -122,7 +122,7 @@ Uso de hilos como RXJava, RxBinding y RxLifeCycle; RxJava es una de las librerí
 
 **- Courontines**
 
-Código asincrono
+Código asíncrono.
 
 ```
 * Usar dependencias KTX.
